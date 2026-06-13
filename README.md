@@ -290,6 +290,9 @@ IBM SkillsBuild Project Submission
 
 Dataset Source:
 Food.com Recipe Dataset
+## Dataset
+Dataset Download Link:
+https://drive.google.com/file/d/1VZozc27cGXEa31cqx2zS2NdJKDvDkfYA/view?usp=sharing
 
 Developed as part of an AI & Machine Learning learning project using Python, Streamlit, Pandas, and Matplotlib.
 
