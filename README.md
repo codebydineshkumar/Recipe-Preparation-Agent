@@ -291,6 +291,7 @@ IBM SkillsBuild Project Submission
 Dataset Source:
 Food.com Recipe Dataset
 ## Dataset
+# Dataset Size: 281MB
 Dataset Download Link:
 https://drive.google.com/file/d/1VZozc27cGXEa31cqx2zS2NdJKDvDkfYA/view?usp=sharing
 
